@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.dee2e199.css",
+    "main.js": "/portfolio/static/js/main.98b93ab4.js",
+    "static/media/tripguide.png": "/portfolio/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/herobg.png": "/portfolio/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "/portfolio/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "/portfolio/static/media/jobit.755da7149642fd049273.png",
+    "static/media/redux-observable.png": "/portfolio/static/media/redux-observable.a4f7e613c73569800635.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.7b8529c5b954a3ce53fa.png",
+    "static/media/web.png": "/portfolio/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/rxjs.png": "/portfolio/static/media/rxjs.72ae7f1782b03b9b5a11.png",
+    "static/media/backend.png": "/portfolio/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/portfolio/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/close.png": "/portfolio/static/media/close.74ba53ddd99a888d5dc3.png",
+    "static/media/creator.png": "/portfolio/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "/portfolio/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/fortech.png": "/portfolio/static/media/fortech.03a3395b2473beb2aecc.png",
+    "static/media/github.png": "/portfolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/react-query.png": "/portfolio/static/media/react-query.44b0741da0239ba5838a.png",
+    "static/media/threejs.svg": "/portfolio/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
+    "index.html": "/portfolio/index.html",
+    "main.dee2e199.css.map": "/portfolio/static/css/main.dee2e199.css.map",
+    "main.98b93ab4.js.map": "/portfolio/static/js/main.98b93ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dee2e199.css",
+    "static/js/main.98b93ab4.js"
+  ]
+}
